@@ -20,20 +20,18 @@ A full-stack chat application built using **React**, **Node.js**, **Express**, a
 
 ## Project Snapshots
 
-### Admin Dashboard
+### Log In Page
 
-![Admin Dashboard](./assets/screenshots/AdminDashboard.png)
-_This is a screenshot of the Admin Dashboard._
+![Log In Page](./login.png)
+_This is a screenshot of the Log In Page._
 
-### Teachers List
+### Chat Page
 
-![Teachers List](./assets/screenshots//TeachersList.png)
-_This is a screenshot of the Teachers List page._
+![Log In Page](./nochat.png)
+_This is a screenshot of the No Chat Page._
 
-### Adding Teacher Form
-
-![Adding Teacher Form](./assets/screenshots/AddingTeacherForm.png)
-_This is a screenshot of the Add Teacher form._
+![Log In Page](./openchat.png)
+_This is a screenshot of the Open Chat Page._
 
 
 ## Setup & Installation
