@@ -18,6 +18,24 @@ A full-stack chat application built using **React**, **Node.js**, **Express**, a
 * **Authentication**: JWT, bcryptjs
 * **Real-Time**: Socket.IO (future chat features)
 
+## Project Snapshots
+
+### Admin Dashboard
+
+![Admin Dashboard](./assets/screenshots/AdminDashboard.png)
+_This is a screenshot of the Admin Dashboard._
+
+### Teachers List
+
+![Teachers List](./assets/screenshots//TeachersList.png)
+_This is a screenshot of the Teachers List page._
+
+### Adding Teacher Form
+
+![Adding Teacher Form](./assets/screenshots/AddingTeacherForm.png)
+_This is a screenshot of the Add Teacher form._
+
+
 ## Setup & Installation
 
 ### Prerequisites
